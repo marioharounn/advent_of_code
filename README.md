@@ -1,2 +1,2 @@
-# advent_of_code
-New code challenge every day till Xmas
+# Advent of Code 2024
+New coding challenge every day till Xmas
